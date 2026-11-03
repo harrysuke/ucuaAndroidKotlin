@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UCUA</string>
+    <string name="tagline">U-SEE U-ACT</string>
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Report unsafe conditions and actions</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+</resources>

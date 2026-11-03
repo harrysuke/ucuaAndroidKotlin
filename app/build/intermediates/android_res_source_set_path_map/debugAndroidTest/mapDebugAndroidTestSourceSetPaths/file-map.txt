@@ -1,0 +1,6 @@
+com.ucua.app.test.app-androidTest-0 D:\laragon\www\ucua300\UcuaAndroid\app\build\generated\res\resValues\androidTest\debug
+com.ucua.app.test.app-updated_navigation_xml-1 D:\laragon\www\ucua300\UcuaAndroid\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.ucua.app.test.app-mergeDebugAndroidTestResources-2 D:\laragon\www\ucua300\UcuaAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ucua.app.test.app-mergeDebugAndroidTestResources-3 D:\laragon\www\ucua300\UcuaAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ucua.app.test.app-debugAndroidTest-4 D:\laragon\www\ucua300\UcuaAndroid\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\khairi\.gradle

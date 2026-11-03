@@ -1,0 +1,4 @@
+- [x] Disable KSP2 in `gradle.properties` (Re-enabled after finding KSP1 is unsupported, Room upgrade was sufficient)
+- [x] Upgrade Room version in `libs.versions.toml`
+- [x] Add explicit return types to `ReportDao.kt`
+- [x] Verify build with `./gradlew :app:kspDebugKotlin`

@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color ucua_accent
+color ucua_error
+color ucua_primary
+color ucua_primary_dark
+color ucua_success
+drawable ic_launcher
+string app_name
+string login_subtitle
+string login_title
+string logout
+string settings
+string tagline
+style Theme.UCUA
